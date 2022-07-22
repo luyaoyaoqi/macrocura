@@ -1,838 +1,838 @@
 {
-  "neutral": {
-    "fill": {
-      "0": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "全局最底层背景"
-      },
-      "1": {
-        "value": "#f7f8fa",
-        "type": "color",
-        "description": "浅/禁用"
-      },
-      "2": {
-        "value": "#f2f3f5",
-        "type": "color",
-        "description": "一般/常规/白底悬浮"
-      },
-      "3": {
-        "value": "#e5e6eb",
-        "type": "color",
-        "description": "深/灰底悬浮"
-      },
-      "4": {
-        "value": "#c9cdd4",
-        "type": "color",
-        "description": "重/特殊场景"
-      },
-      "5": {
-        "value": "#4e5969",
-        "type": "color",
-        "description": "强调/图标/特殊场景"
-      }
+    "neutral": {
+        "fill": {
+            "0": {
+                "value": "#ffffff",
+                "type": "color",
+                "description": "全局最底层背景"
+            },
+            "1": {
+                "value": "#f7f8fa",
+                "type": "color",
+                "description": "浅/禁用"
+            },
+            "2": {
+                "value": "#f2f3f5",
+                "type": "color",
+                "description": "一般/常规/白底悬浮"
+            },
+            "3": {
+                "value": "#e5e6eb",
+                "type": "color",
+                "description": "深/灰底悬浮"
+            },
+            "4": {
+                "value": "#c9cdd4",
+                "type": "color",
+                "description": "重/特殊场景"
+            },
+            "5": {
+                "value": "#4e5969",
+                "type": "color",
+                "description": "强调/图标/特殊场景"
+            }
+        },
+        "text": {
+            "0": {
+                "value": "#ffffff",
+                "type": "color",
+                "description": "彩色背景上的文字颜色"
+            },
+            "1": {
+                "value": "#1d2129",
+                "type": "color",
+                "description": "强调/正文标题"
+            },
+            "2": {
+                "value": "#4e5969",
+                "type": "color",
+                "description": "次强调/正文标题"
+            },
+            "3": {
+                "value": "#86909c",
+                "type": "color",
+                "description": "次要信息"
+            },
+            "4": {
+                "value": "#c9cdd4",
+                "type": "color",
+                "description": "置灰信息"
+            }
+        },
+        "line": {
+            "1": {
+                "value": "#e5e6eb",
+                "type": "color",
+                "description": "常规/白底"
+            },
+            "2": {
+                "value": "#c9cdd4",
+                "type": "color",
+                "description": "深/灰底"
+            }
+        }
     },
-    "text": {
-      "0": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "彩色背景上的文字颜色"
-      },
-      "1": {
-        "value": "#1d2129",
-        "type": "color",
-        "description": "强调/正文标题"
-      },
-      "2": {
-        "value": "#4e5969",
-        "type": "color",
-        "description": "次强调/正文标题"
-      },
-      "3": {
-        "value": "#86909c",
-        "type": "color",
-        "description": "次要信息"
-      },
-      "4": {
-        "value": "#c9cdd4",
-        "type": "color",
-        "description": "置灰信息"
-      }
+    "status": {
+        "primary": {
+            "1": {
+                "value": "#E8F5FF",
+                "type": "color",
+                "description": "浅色背景"
+            },
+            "3": {
+                "value": "#8BC7FF",
+                "type": "color",
+                "description": "禁用"
+            },
+            "5": {
+                "value": "#2E8CFF",
+                "type": "color",
+                "description": "悬浮"
+            },
+            "6": {
+                "value": "#006AFF",
+                "type": "color",
+                "description": "常规"
+            },
+            "7": {
+                "value": "#0051D2",
+                "type": "color",
+                "description": "点击"
+            }
+        },
+        "success": {
+            "1": {
+                "value": "#E8FFEA",
+                "type": "color",
+                "description": "浅色背景"
+            },
+            "3": {
+                "value": "#7BE188",
+                "type": "color",
+                "description": "禁用"
+            },
+            "5": {
+                "value": "#23C343",
+                "type": "color",
+                "description": "悬浮"
+            },
+            "6": {
+                "value": "#00B42A",
+                "type": "color",
+                "description": "常规"
+            },
+            "7": {
+                "value": "#009A29",
+                "type": "color",
+                "description": "点击"
+            }
+        },
+        "warning": {
+            "1": {
+                "value": "#FFF7E8",
+                "type": "color",
+                "description": "浅色背景"
+            },
+            "3": {
+                "value": "#FFCF8B",
+                "type": "color",
+                "description": "禁用"
+            },
+            "5": {
+                "value": "#FF9A2E",
+                "type": "color",
+                "description": "悬浮"
+            },
+            "6": {
+                "value": "#FF7D00",
+                "type": "color",
+                "description": "常规"
+            },
+            "7": {
+                "value": "#D25F00",
+                "type": "color",
+                "description": "点击"
+            }
+        },
+        "error": {
+            "1": {
+                "value": "#FFECE8",
+                "type": "color",
+                "description": "浅色背景"
+            },
+            "3": {
+                "value": "#FBACA3",
+                "type": "color",
+                "description": "禁用"
+            },
+            "5": {
+                "value": "#F76560",
+                "type": "color",
+                "description": "悬浮"
+            },
+            "6": {
+                "value": "#F53F3F",
+                "type": "color",
+                "description": "常规"
+            },
+            "7": {
+                "value": "#CB272D",
+                "type": "color",
+                "description": "点击"
+            }
+        },
+        "link": {
+            "1": {
+                "value": "#E8F3FF",
+                "type": "color",
+                "description": "浅色背景"
+            },
+            "3": {
+                "value": "#94BFFF",
+                "type": "color",
+                "description": "禁用"
+            },
+            "5": {
+                "value": "#4080FF",
+                "type": "color",
+                "description": "悬浮"
+            },
+            "6": {
+                "value": "#165DFF",
+                "type": "color",
+                "description": "常规"
+            },
+            "7": {
+                "value": "#0E42D2",
+                "type": "color",
+                "description": "点击"
+            }
+        }
     },
-    "line": {
-      "1": {
-        "value": "#e5e6eb",
-        "type": "color",
-        "description": "常规/白底"
-      },
-      "2": {
-        "value": "#c9cdd4",
-        "type": "color",
-        "description": "深/灰底"
-      }
+    "mask": {
+        "fill": {
+            "1": {
+                "value": "#1d212999",
+                "type": "color"
+            }
+        }
+    },
+    "size": {
+        "base": {
+            "value": 4,
+            "type": "sizing"
+        },
+        "xxs": {
+            "value": 12,
+            "type": "sizing"
+        },
+        "xs": {
+            "value": 16,
+            "type": "sizing"
+        },
+        "s": {
+            "value": 24,
+            "type": "sizing"
+        },
+        "m": {
+            "value": 32,
+            "type": "sizing"
+        },
+        "xl": {
+            "value": 48,
+            "type": "sizing"
+        },
+        "xxl": {
+            "value": 56,
+            "type": "sizing"
+        }
+    },
+    "space": {
+        "base": {
+            "value": 4,
+            "type": "spacing"
+        },
+        "none": {
+            "value": 0,
+            "type": "spacing"
+        },
+        "xs": {
+            "value": 4,
+            "type": "spacing"
+        },
+        "s": {
+            "value": 8,
+            "type": "spacing"
+        },
+        "m": {
+            "value": 12,
+            "type": "spacing"
+        },
+        "l": {
+            "value": 16,
+            "type": "spacing"
+        },
+        "xl": {
+            "value": 24,
+            "type": "spacing"
+        },
+        "xxl": {
+            "value": 32,
+            "type": "spacing"
+        }
+    },
+    "borderRadius": {
+        "base": {
+            "value": 4,
+            "type": "borderRadius"
+        },
+        "s": {
+            "value": 4,
+            "type": "borderRadius"
+        },
+        "m": {
+            "value": 8,
+            "type": "borderRadius"
+        },
+        "l": {
+            "value": 12,
+            "type": "borderRadius"
+        }
+    },
+    "borderWidth": {
+        "base": {
+            "value": 1,
+            "type": "borderWidth"
+        },
+        "s": {
+            "value": 1,
+            "type": "borderWidth"
+        },
+        "m": {
+            "value": 2,
+            "type": "borderWidth"
+        },
+        "l": {
+            "value": 4,
+            "type": "borderWidth"
+        }
+    },
+    "shadow": {
+        "1": {
+            "value": {
+                "x": 0,
+                "y": 2,
+                "blur": 5,
+                "spread": 0,
+                "color": "#0000001a",
+                "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "卡片"
+        },
+        "2": {
+            "value": {
+                "x": 0,
+                "y": 4,
+                "blur": 10,
+                "spread": 0,
+                "color": "#0000001a",
+                "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "hover态"
+        },
+        "3": {
+            "value": {
+                "x": 0,
+                "y": 4,
+                "blur": 10,
+                "spread": 0,
+                "color": "#0000001a",
+                "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "下拉菜单"
+        },
+        "4": {
+            "value": {
+                "x": 0,
+                "y": 8,
+                "blur": 20,
+                "spread": 0,
+                "color": "#0000001a",
+                "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "模态框"
+        }
+    },
+    "fontFamilies": {
+        "pingfang-sc": {
+            "value": "PingFang SC",
+            "type": "fontFamilies"
+        }
+    },
+    "fontWeights": {
+        "regular": {
+            "value": "Regular",
+            "type": "fontWeights",
+            "description": "400"
+        },
+        "medium": {
+            "value": "Medium",
+            "type": "fontWeights",
+            "description": "500"
+        },
+        "semibold": {
+            "value": "Semibold",
+            "type": "fontWeights",
+            "description": "600"
+        }
+    },
+    "fontSize": {
+        "12": {
+            "value": 12,
+            "type": "fontSizes",
+            "description": "辅助文案"
+        },
+        "13": {
+            "value": 13,
+            "type": "fontSizes",
+            "description": "正文-小"
+        },
+        "14": {
+            "value": 14,
+            "type": "fontSizes",
+            "description": "正文-小"
+        },
+        "16": {
+            "value": 16,
+            "type": "fontSizes",
+            "description": "标题-小"
+        },
+        "20": {
+            "value": 20,
+            "type": "fontSizes",
+            "description": "标题-中"
+        },
+        "24": {
+            "value": 24,
+            "type": "fontSizes",
+            "description": "标题-大"
+        },
+        "36": {
+            "value": 36,
+            "type": "fontSizes",
+            "description": "运营标题-小"
+        },
+        "48": {
+            "value": 48,
+            "type": "fontSizes",
+            "description": "运营标题-中"
+        },
+        "56": {
+            "value": 56,
+            "type": "fontSizes",
+            "description": "运营标题-大"
+        }
+    },
+    "font": {
+        "12": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 20,
+                    "fontSize": 12,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "mone"
+                },
+                "type": "typography",
+                "description": "辅助文案"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 20,
+                    "fontSize": 12,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "mone"
+                },
+                "type": "typography",
+                "description": "辅助文案"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 20,
+                    "fontSize": 12,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "mone"
+                },
+                "type": "typography",
+                "description": "辅助文案"
+            }
+        },
+        "13": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 21,
+                    "fontSize": 13,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "正文-小"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 21,
+                    "fontSize": 13,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "正文-小"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 21,
+                    "fontSize": 13,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "正文-小"
+            }
+        },
+        "14": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 22,
+                    "fontSize": 14,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "正文-大"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 22,
+                    "fontSize": 14,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "正文-大"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 22,
+                    "fontSize": 14,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "正文-大"
+            }
+        },
+        "16": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 24,
+                    "fontSize": 16,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-小"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 24,
+                    "fontSize": 16,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-小"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 24,
+                    "fontSize": 16,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-小"
+            }
+        },
+        "20": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 28,
+                    "fontSize": 20,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-中"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 28,
+                    "fontSize": 20,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-中"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 28,
+                    "fontSize": 20,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-中"
+            }
+        },
+        "24": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 32,
+                    "fontSize": 24,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-大"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 32,
+                    "fontSize": 24,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-大"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 32,
+                    "fontSize": 24,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "标题-大"
+            }
+        },
+        "36": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 44,
+                    "fontSize": 36,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-小"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 44,
+                    "fontSize": 36,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-小"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 44,
+                    "fontSize": 36,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-小"
+            }
+        },
+        "48": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 56,
+                    "fontSize": 48,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-中"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 56,
+                    "fontSize": 48,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-中"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 56,
+                    "fontSize": 48,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-中"
+            }
+        },
+        "56": {
+            "regular": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Regular",
+                    "lineHeight": 64,
+                    "fontSize": 56,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-大"
+            },
+            "medium": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Medium",
+                    "lineHeight": 64,
+                    "fontSize": 56,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-大"
+            },
+            "semibold": {
+                "value": {
+                    "fontFamily": "PingFang SC",
+                    "fontWeight": "Semibold",
+                    "lineHeight": 64,
+                    "fontSize": 56,
+                    "letterSpacing": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "none",
+                    "textDecoration": "none"
+                },
+                "type": "typography",
+                "description": "运营标题-大"
+            }
+        }
     }
-  },
-  "status": {
-    "primary": {
-      "1": {
-        "value": "#E8F5FF",
-        "type": "color",
-        "description": "浅色背景"
-      },
-      "3": {
-        "value": "#8BC7FF",
-        "type": "color",
-        "description": "禁用"
-      },
-      "5": {
-        "value": "#2E8CFF",
-        "type": "color",
-        "description": "悬浮"
-      },
-      "6": {
-        "value": "#006AFF",
-        "type": "color",
-        "description": "常规"
-      },
-      "7": {
-        "value": "#0051D2",
-        "type": "color",
-        "description": "点击"
-      }
-    },
-    "success": {
-      "1": {
-        "value": "#E8FFEA",
-        "type": "color",
-        "description": "浅色背景"
-      },
-      "3": {
-        "value": "#7BE188",
-        "type": "color",
-        "description": "禁用"
-      },
-      "5": {
-        "value": "#23C343",
-        "type": "color",
-        "description": "悬浮"
-      },
-      "6": {
-        "value": "#00B42A",
-        "type": "color",
-        "description": "常规"
-      },
-      "7": {
-        "value": "#009A29",
-        "type": "color",
-        "description": "点击"
-      }
-    },
-    "warning": {
-      "1": {
-        "value": "#FFF7E8",
-        "type": "color",
-        "description": "浅色背景"
-      },
-      "3": {
-        "value": "#FFCF8B",
-        "type": "color",
-        "description": "禁用"
-      },
-      "5": {
-        "value": "#FF9A2E",
-        "type": "color",
-        "description": "悬浮"
-      },
-      "6": {
-        "value": "#FF7D00",
-        "type": "color",
-        "description": "常规"
-      },
-      "7": {
-        "value": "#D25F00",
-        "type": "color",
-        "description": "点击"
-      }
-    },
-    "error": {
-      "1": {
-        "value": "#FFECE8",
-        "type": "color",
-        "description": "浅色背景"
-      },
-      "3": {
-        "value": "#FBACA3",
-        "type": "color",
-        "description": "禁用"
-      },
-      "5": {
-        "value": "#F76560",
-        "type": "color",
-        "description": "悬浮"
-      },
-      "6": {
-        "value": "#F53F3F",
-        "type": "color",
-        "description": "常规"
-      },
-      "7": {
-        "value": "#CB272D",
-        "type": "color",
-        "description": "点击"
-      }
-    },
-    "link": {
-      "1": {
-        "value": "#E8F3FF",
-        "type": "color",
-        "description": "浅色背景"
-      },
-      "3": {
-        "value": "#94BFFF",
-        "type": "color",
-        "description": "禁用"
-      },
-      "5": {
-        "value": "#4080FF",
-        "type": "color",
-        "description": "悬浮"
-      },
-      "6": {
-        "value": "#165DFF",
-        "type": "color",
-        "description": "常规"
-      },
-      "7": {
-        "value": "#0E42D2",
-        "type": "color",
-        "description": "点击"
-      }
-    }
-  },
-  "mask": {
-    "fill": {
-      "1": {
-        "value": "#1d212999",
-        "type": "color"
-      }
-    }
-  },
-  "size": {
-    "base": {
-      "value": 4,
-      "type": "sizing"
-    },
-    "xxs": {
-      "value": 12,
-      "type": "sizing"
-    },
-    "xs": {
-      "value": 16,
-      "type": "sizing"
-    },
-    "s": {
-      "value": 24,
-      "type": "sizing"
-    },
-    "m": {
-      "value": 32,
-      "type": "sizing"
-    },
-    "xl": {
-      "value": 48,
-      "type": "sizing"
-    },
-    "xxl": {
-      "value": 56,
-      "type": "sizing"
-    }
-  },
-  "space": {
-    "base": {
-      "value": 4,
-      "type": "spacing"
-    },
-    "none": {
-      "value": 0,
-      "type": "spacing"
-    },
-    "xs": {
-      "value": 4,
-      "type": "spacing"
-    },
-    "s": {
-      "value": 8,
-      "type": "spacing"
-    },
-    "m": {
-      "value": 12,
-      "type": "spacing"
-    },
-    "l": {
-      "value": 16,
-      "type": "spacing"
-    },
-    "xl": {
-      "value": 24,
-      "type": "spacing"
-    },
-    "xxl": {
-      "value": 32,
-      "type": "spacing"
-    }
-  },
-  "borderRadius": {
-    "base": {
-      "value": 4,
-      "type": "borderRadius"
-    },
-    "s": {
-      "value": 4,
-      "type": "borderRadius"
-    },
-    "m": {
-      "value": 8,
-      "type": "borderRadius"
-    },
-    "l": {
-      "value": 12,
-      "type": "borderRadius"
-    }
-  },
-  "borderWidth": {
-    "base": {
-      "value": 1,
-      "type": "borderWidth"
-    },
-    "s": {
-      "value": 1,
-      "type": "borderWidth"
-    },
-    "m": {
-      "value": 2,
-      "type": "borderWidth"
-    },
-    "l": {
-      "value": 4,
-      "type": "borderWidth"
-    }
-  },
-  "shadow": {
-    "1": {
-      "value": {
-        "x": 0,
-        "y": 2,
-        "blur": 5,
-        "spread": 0,
-        "color": "#0000001a",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "卡片"
-    },
-    "2": {
-      "value": {
-        "x": 0,
-        "y": 4,
-        "blur": 10,
-        "spread": 0,
-        "color": "#0000001a",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "hover态"
-    },
-    "3": {
-      "value": {
-        "x": 0,
-        "y": 4,
-        "blur": 10,
-        "spread": 0,
-        "color": "#0000001a",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "下拉菜单"
-    },
-    "4": {
-      "value": {
-        "x": 0,
-        "y": 8,
-        "blur": 20,
-        "spread": 0,
-        "color": "#0000001a",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "模态框"
-    }
-  },
-  "fontFamilies": {
-    "pingfang-sc": {
-      "value": "PingFang SC",
-      "type": "fontFamilies"
-    }
-  },
-  "fontWeights": {
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights",
-      "description": "400"
-    },
-    "medium": {
-      "value": "Medium",
-      "type": "fontWeights",
-      "description": "500"
-    },
-    "semibold": {
-      "value": "Semibold",
-      "type": "fontWeights",
-      "description": "600"
-    }
-  },
-  "fontSize": {
-    "12": {
-      "value": 12,
-      "type": "fontSizes",
-      "description": "辅助文案"
-    },
-    "13": {
-      "value": 13,
-      "type": "fontSizes",
-      "description": "正文-小"
-    },
-    "14": {
-      "value": 14,
-      "type": "fontSizes",
-      "description": "正文-小"
-    },
-    "16": {
-      "value": 16,
-      "type": "fontSizes",
-      "description": "标题-小"
-    },
-    "20": {
-      "value": 20,
-      "type": "fontSizes",
-      "description": "标题-中"
-    },
-    "24": {
-      "value": 24,
-      "type": "fontSizes",
-      "description": "标题-大"
-    },
-    "36": {
-      "value": 36,
-      "type": "fontSizes",
-      "description": "运营标题-小"
-    },
-    "48": {
-      "value": 48,
-      "type": "fontSizes",
-      "description": "运营标题-中"
-    },
-    "56": {
-      "value": 56,
-      "type": "fontSizes",
-      "description": "运营标题-大"
-    }
-  },
-  "font": {
-    "12": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 20,
-          "fontSize": 12,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "mone"
-        },
-        "type": "typography",
-        "description": "辅助文案"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 20,
-          "fontSize": 12,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "mone"
-        },
-        "type": "typography",
-        "description": "辅助文案"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 20,
-          "fontSize": 12,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "mone"
-        },
-        "type": "typography",
-        "description": "辅助文案"
-      }
-    },
-    "13": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 21,
-          "fontSize": 13,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "正文-小"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 21,
-          "fontSize": 13,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "正文-小"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 21,
-          "fontSize": 13,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "正文-小"
-      }
-    },
-    "14": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 22,
-          "fontSize": 14,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "正文-大"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 22,
-          "fontSize": 14,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "正文-大"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 22,
-          "fontSize": 14,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "正文-大"
-      }
-    },
-    "16": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 24,
-          "fontSize": 16,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-小"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 24,
-          "fontSize": 16,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-小"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 24,
-          "fontSize": 16,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-小"
-      }
-    },
-    "20": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 28,
-          "fontSize": 20,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-中"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 28,
-          "fontSize": 20,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-中"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 28,
-          "fontSize": 20,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-中"
-      }
-    },
-    "24": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 32,
-          "fontSize": 24,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-大"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 32,
-          "fontSize": 24,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-大"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 32,
-          "fontSize": 24,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-大"
-      }
-    },
-    "36": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 44,
-          "fontSize": 36,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-小"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 44,
-          "fontSize": 36,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-小"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 44,
-          "fontSize": 36,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-小"
-      }
-    },
-    "48": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 56,
-          "fontSize": 48,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-中"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 56,
-          "fontSize": 48,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-中"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 56,
-          "fontSize": 48,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-中"
-      }
-    },
-    "56": {
-      "regular": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Regular",
-          "lineHeight": 64,
-          "fontSize": 56,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-大"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Medium",
-          "lineHeight": 64,
-          "fontSize": 56,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-大"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 64,
-          "fontSize": 56,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-大"
-      }
-    }
-  }
 }
