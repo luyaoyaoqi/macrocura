@@ -1,0 +1,44 @@
+{
+  "main": {
+    "1": {
+      "value": "#E8FFFE",
+      "type": "color"
+    },
+    "2": {
+      "value": "#BAF5F4",
+      "type": "color"
+    },
+    "3": {
+      "value": "#8FE9EB",
+      "type": "color"
+    },
+    "4": {
+      "value": "#66DBE1",
+      "type": "color"
+    },
+    "5": {
+      "value": "#41CBD7",
+      "type": "color"
+    },
+    "6": {
+      "value": "#1FB8CD",
+      "type": "color"
+    },
+    "7": {
+      "value": "#1496AD",
+      "type": "color"
+    },
+    "8": {
+      "value": "#0B758D",
+      "type": "color"
+    },
+    "9": {
+      "value": "#04566D",
+      "type": "color"
+    },
+    "10": {
+      "value": "#00394D",
+      "type": "color"
+    }
+  }
+}
