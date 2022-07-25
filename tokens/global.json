@@ -238,6 +238,10 @@
       "value": 32,
       "type": "sizing"
     },
+    "l": {
+      "value": 40,
+      "type": "sizing"
+    },
     "xl": {
       "value": 48,
       "type": "sizing"
@@ -252,7 +256,7 @@
       "value": 4,
       "type": "spacing"
     },
-    "none": {
+    "xxs": {
       "value": 0,
       "type": "spacing"
     },
@@ -383,11 +387,6 @@
       "value": "Medium",
       "type": "fontWeights",
       "description": "500"
-    },
-    "semibold": {
-      "value": "Semibold",
-      "type": "fontWeights",
-      "description": "600"
     }
   },
   "fontSize": {
@@ -466,20 +465,6 @@
         },
         "type": "typography",
         "description": "辅助文案"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 20,
-          "fontSize": 12,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "mone"
-        },
-        "type": "typography",
-        "description": "辅助文案"
       }
     },
     "13": {
@@ -501,20 +486,6 @@
         "value": {
           "fontFamily": "PingFang SC",
           "fontWeight": "Medium",
-          "lineHeight": 21,
-          "fontSize": 13,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "正文-小"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
           "lineHeight": 21,
           "fontSize": 13,
           "letterSpacing": 0,
@@ -554,20 +525,6 @@
         },
         "type": "typography",
         "description": "正文-大"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 22,
-          "fontSize": 14,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "正文-大"
       }
     },
     "16": {
@@ -589,20 +546,6 @@
         "value": {
           "fontFamily": "PingFang SC",
           "fontWeight": "Medium",
-          "lineHeight": 24,
-          "fontSize": 16,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-小"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
           "lineHeight": 24,
           "fontSize": 16,
           "letterSpacing": 0,
@@ -642,20 +585,6 @@
         },
         "type": "typography",
         "description": "标题-中"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 28,
-          "fontSize": 20,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-中"
       }
     },
     "24": {
@@ -677,20 +606,6 @@
         "value": {
           "fontFamily": "PingFang SC",
           "fontWeight": "Medium",
-          "lineHeight": 32,
-          "fontSize": 24,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "标题-大"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
           "lineHeight": 32,
           "fontSize": 24,
           "letterSpacing": 0,
@@ -730,20 +645,6 @@
         },
         "type": "typography",
         "description": "运营标题-小"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 44,
-          "fontSize": 36,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-小"
       }
     },
     "48": {
@@ -774,20 +675,6 @@
         },
         "type": "typography",
         "description": "运营标题-中"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
-          "lineHeight": 56,
-          "fontSize": 48,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-中"
       }
     },
     "56": {
@@ -809,20 +696,6 @@
         "value": {
           "fontFamily": "PingFang SC",
           "fontWeight": "Medium",
-          "lineHeight": 64,
-          "fontSize": 56,
-          "letterSpacing": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "运营标题-大"
-      },
-      "semibold": {
-        "value": {
-          "fontFamily": "PingFang SC",
-          "fontWeight": "Semibold",
           "lineHeight": 64,
           "fontSize": 56,
           "letterSpacing": 0,
